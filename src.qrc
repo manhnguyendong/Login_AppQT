@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/asserts">
+        <file>image/icon-acc.png</file>
+        <file>image/theme.jpg</file>
+        <file>image/forget.jpg</file>
+    </qresource>
+</RCC>
